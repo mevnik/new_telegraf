@@ -18,6 +18,9 @@ const i18n = new TelegrafI18n({
 const users = []
 bot.context.users = users
 
+const x = []
+const y = []
+
 
 /*
 const greeter = new Scene('greeter')
