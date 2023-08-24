@@ -18,7 +18,7 @@ const i18n = new TelegrafI18n({
 const users = []
 bot.context.users = users
 
-
+// It's new chang in main
 /*
 const greeter = new Scene('greeter')
 greeter.enter((ctx) => ctx.reply('Hi'))
