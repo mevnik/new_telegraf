@@ -22,7 +22,7 @@ git push -u origin main
 */Прим. commit -ad ... обьеденяет add и commit
     Создание ветки git branch <name new branch>
     Посмотреть ветки git branch
-    
+
     When you work in new branch (git switch <new branch> and  first push the new branch on git hub:
     $ git push origin <branch name>
 На любом этапе можно посмотреть git status
